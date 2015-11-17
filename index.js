@@ -1,4 +1,4 @@
 'use strict';
 
 
-module.exports = require('./lib/Micky');
+module.exports = require('./lib/micky');
