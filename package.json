@@ -4,5 +4,12 @@
   "author": "Christian Blaschke <mail@platdesign.de>",
   "version": "0.0.1",
   "dependencies": {},
-  "repository": "https://github.com/platdesign/Micky.git"
+  "repository": "https://github.com/platdesign/Micky.git",
+  "devDependencies": {
+    "angular": "^1.4.7",
+    "angular-hawk": "0.0.0",
+    "angular-oz": "0.0.0",
+    "ngstorage": "^0.3.10"
+  },
+  "license": "MIT"
 }
